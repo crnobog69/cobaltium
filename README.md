@@ -5,7 +5,7 @@
 
 cabaltara is a **very simple** and **barebones** **``Cobalt.tools`` Web Extension** utilizing **Cobalt API**.
 
-Check out Cobalt.tools:
+Check out ``Cobalt.tools``:
 
 Website: [cobalt.tools](https://cobalt.tools/)
 <br>
