@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Cobalt Downloader",
+    "version": "1.0",
+    "description": "Download media using Cobalt API",
+    "permissions": ["activeTab", "downloads"],
+    "host_permissions": ["https://api.cobalt.tools/"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "assets/icon16.png",
+            "48": "assets/icon48.png",
+            "128": "assets/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Cobalt Downloader</title>
+        <style>
+            body {
+                width: 300px;
+                padding: 15px;
+                font-family: Arial, sans-serif;
+                background-color: #1e1e2e;
+                color: #cdd6f4;
+                margin: 0;
+                text-align: center;
+            }
+            .icon {
+                margin-bottom: 15px;
+            }
+            .icon img {
+                width: 5rem;
+                height: 5rem;
+                border-radius: 20%;
+                border: 2px solid #a6e3a1;
+            }
+            input,
+            select,
+            button {
+                width: calc(100% - 10px);
+                margin-bottom: 15px;
+                padding: 10px;
+                border-radius: 5px;
+                border: 1px solid #333;
+                box-sizing: border-box;
+                background-color: #2e2e3e;
+                color: #cdd6f4;
+            }
+            button {
+                background-color: #a6e3a1;
+                color: #1e1e2e;
+                border: none;
+                cursor: pointer;
+                font-weight: bold;
+            }
+            button:hover {
+                background-color: #91d68b;
+            }
+            select {
+                background-color: #2e2e3e;
+            }
+            input::placeholder,
+            select option {
+                color: #cdd6f4;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="icon">
+            <img src="assets/icon128.png" alt="Icon" />
+        </div>
+        <input type="text" id="url" placeholder="Enter URL" />
+        <select id="format">
+            <option value="mp4">MP4 (Video)</option>
+            <option value="mp3">MP3 (Audio)</option>
+        </select>
+        <button id="download">Download</button>
+        <script src="popup.js"></script>
+    </body>
+</html>
