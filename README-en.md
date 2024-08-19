@@ -6,7 +6,7 @@
 
 ## 📦 | Installation
 1. Clone the repository or download the files.
-2. Go to `chrome://extensions/` in your browser.
+2. Go to `chrome://extensions/` or `brave://extensions/` (if you are using the Brave browser) in your browser.
 3. Enable `Developer mode`.
 4. Click `Load unpacked` and select the folder.
 
