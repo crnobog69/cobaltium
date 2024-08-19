@@ -6,9 +6,10 @@
 
 ## 📦 | Installation
 1. Clone the repository or download the files.
-2. Go to `chrome://extensions/` or `brave://extensions/` (if you are using the Brave browser) in your browser.
-3. Enable `Developer mode`.
-4. Click `Load unpacked` and select the folder.
+2. Extract the `.zip` file.
+3. Go to `chrome://extensions/` or `brave://extensions/` (if you are using the Brave browser) in your browser.
+4. Enable `Developer mode`.
+5. Click `Load unpacked` and select the folder.
 
 ## 🚀 | Usage
 - If you see the number `1`, it means the page is supported by [`Cobalt.tools`](https://cobalt.tools/).
