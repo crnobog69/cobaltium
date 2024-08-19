@@ -19,7 +19,6 @@
 ## 🏠 | ``Cobalt.tools``:
 
 - Вебсајт: [cobalt.tools](https://cobalt.tools/)
-<br>
 - GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
 
 ## 📜 | Лиценца
