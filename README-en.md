@@ -2,7 +2,7 @@
 
 ### [🇷🇸 | Српски](README.md)
 
-🔗 **Cobaltium** is an extension that allows you to open the current web page directly on [Cobalt.tools](https://cobalt.tools).
+🔗 **Cobaltium** is an extension that allows you to open the current web page directly on [`Cobalt.tools`](https://cobalt.tools).
 
 ## 📦 | Installation
 1. Clone the repository or download the files.
@@ -11,7 +11,7 @@
 4. Click `Load unpacked` and select the folder.
 
 ## 🚀 | Usage
-- If you see the number `1`, it means the page is supported by `Cobalt.tools`.
+- If you see the number `1`, it means the page is supported by [`Cobalt.tools`](https://cobalt.tools/).
 - Click on the extension icon to open the current page on Cobalt.tools.
 
 ## 🛠️ | Technical Details
@@ -19,8 +19,8 @@
 
 ## ``Cobalt.tools``:
 
-- Website: [cobalt.tools](https://cobalt.tools/)
-* GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
+- Website: [`Cobalt.tools`](https://cobalt.tools/)
+* GitHub: [`imputnet/cobalt`](https://github.com/imputnet/cobalt)
 
 ## 📜 | License
 This project is licensed under the WTFPL license.
