@@ -11,6 +11,7 @@
 4. Click `Load unpacked` and select the folder.
 
 ## 🚀 | Usage
+- If you see the number `1`, it means the page is supported by `Cobalt.tools`.
 - Click on the extension icon to open the current page on Cobalt.tools.
 
 ## 🛠️ | Technical Details
