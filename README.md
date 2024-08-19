@@ -18,9 +18,9 @@
 
 ## 🏠 | ``Cobalt.tools``:
 
-Вебсајт: [cobalt.tools](https://cobalt.tools/)
+- Вебсајт: [cobalt.tools](https://cobalt.tools/)
 <br>
-GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
+- GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
 
 ## 📜 | Лиценца
 Овај пројекат је лиценциран под WTFPL лиценцом.
