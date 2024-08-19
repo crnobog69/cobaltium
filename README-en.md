@@ -13,14 +13,13 @@
 ## 🚀 | Usage
 - Click on the extension icon to open the current page on Cobalt.tools.
 
-## 🛠️ | Development
+## 🛠️ | Technical Details
 - `background.js` contains the functionality that opens the page.
 
-``Cobalt.tools``:
+## ``Cobalt.tools``:
 
-Website: [cobalt.tools](https://cobalt.tools/)
-<br>
-GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
+- Website: [cobalt.tools](https://cobalt.tools/)
+* GitHub: [imputnet/cobalt](https://github.com/imputnet/cobalt)
 
-### 📜 | License
+## 📜 | License
 This project is licensed under the WTFPL license.
