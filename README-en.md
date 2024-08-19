@@ -1,5 +1,7 @@
 # ⚛️ Cobaltium
 
+### [🇷🇸 | Српски](README.md)
+
 🔗 **Cobaltium** is an extension that allows you to open the current web page directly on [Cobalt.tools](https://cobalt.tools).
 
 ## 📦 Installation
