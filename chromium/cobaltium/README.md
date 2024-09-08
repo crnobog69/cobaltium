@@ -1,45 +1,45 @@
 # ⚛️ | Cobaltium
 
-### [🇬🇧 | English](README-en.md)
+### [🇷🇸 | Serbian](README.md)
 
-🔗 **Cobaltium** је додатак који омогућава да тренутну веб страницу отворите директно на [`Cobalt.tools`](https://cobalt.tools).
+🔗 **Cobaltium** is an extension that allows you to open the current webpage directly on [`Cobalt.tools`](https://cobalt.tools).
 
-## 📦 | Инсталација
+## 📦 | Installation
 
 ### 🧪 | Chromium
 
-1. Клонирајте репозиторијум или преузмите фајлове.
-2. Распакујте `.zip` датотеку.
-3. За Chromium претраживаче потребана вам је фасцикла која се налази у [`chromium/cobaltium`](chromium/cobaltium). 
-4. Идите на `chrome://extensions/` или `brave://extensions/` (ако користите браве претраживач) у прегледачу.
-5. Укључите `Developer mode`.
-6. Кликните на `Load unpacked` и изаберите фасциклу.
+1. Clone the repository or download the files.
+2. Unpack the `.zip` file.
+3. For Chromium browsers, you need the folder located in [`chromium/cobaltium`](chromium/cobaltium).
+4. Go to `chrome://extensions/` or `brave://extensions/` (if you're using the Brave browser) in your browser.
+5. Enable `Developer mode`.
+6. Click on `Load unpacked` and select the folder.
 
 ### 🦊 | Firefox
 
-1. [Firefox Add-ons](https://addons.mozilla.org/addon/cobaltium-x/)
+1. [Firedox Add-ons](https://addons.mozilla.org/addon/cobaltium-x/)
 
-  или
+  or
 
-1. Клонирајте репозиторијум или преузмите фајлове.
-2. Распакујте `.zip` датотеку.
-3. За Firefox претраживаче потребана вам је фасцикла која се налази у [`firefox/cobaltium`](firefox/cobaltium)
-4. Идите на `about:about:debugging`.
-5. Кликните на `This Firefox`.
-6. Затим на `Load Temporary Add-on` и изаберите `manifetst.json`.
-7. (Ако немате `Load Temporary Add-on` пробајте да преуземете `Firefox Developer Edition`)
+1. Clone the repository or download the files.
+2. Unpack the `.zip` file.
+3. For Firefox browsers, you need the folder located in [`firefox/cobaltium`](firefox/cobaltium).
+4. Go to `about:debugging`.
+5. Click on `This Firefox`.
+6. Then click on `Load Temporary Add-on` and select `manifest.json`.
+7. (If you don't see `Load Temporary Add-on`, try downloading `Firefox Developer Edition`)
 
-## 🚀 | Коришћење
-- Ако видите број `1` значи даје страница подржана од стране [`Cobalt.tools`](https://cobalt.tools/).
-- Кликните на иконицу екстензије да отворите тренутну страницу на Cobalt.tools.
+## 🚀 | Usage
+- If you see the number `1`, it means the page is supported by [`Cobalt.tools`](https://cobalt.tools/).
+- Click on the extension icon to open the current page on Cobalt.tools.
 
-## 🛠️ | Техничке информације
-- `background.js` садржи функционалност која отвара страницу.
+## 🛠️ | Technical Information
+- `background.js` contains the functionality that opens the page.
 
 ## 🏠 | ``Cobalt.tools``:
 
-- Вебсајт: [`Cobalt.tools`](https://cobalt.tools/)
+- Website: [`Cobalt.tools`](https://cobalt.tools/)
 - GitHub: [`imputnet/cobalt`](https://github.com/imputnet/cobalt)
 
-## 📜 | Лиценца
-Овај пројекат је лиценциран под WTFPL лиценцом.
+## 📜 | License
+This project is licensed under the WTFPL license.
