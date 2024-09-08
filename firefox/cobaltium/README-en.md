@@ -17,6 +17,10 @@
 
 ### 🦊 | Firefox
 
+1. [Firedox Add-ons](https://addons.mozilla.org/addon/cobaltium-x/)
+
+  or
+
 1. Clone the repository or download the files.
 2. Unpack the `.zip` file.
 3. For Firefox browsers, you need the folder located in [`firefox/cobaltium`](firefox/cobaltium).
