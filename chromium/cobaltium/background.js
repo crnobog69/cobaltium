@@ -47,6 +47,11 @@ function checkTab(tabId) {
             "*://*.vine.co/*",
             "*://*.streamable.com/*",
             "*://*.pinterest.com/pin/*",
+            "*://*.bsky.app/*",
+            "*://*.loom.com/share/*",
+            "*://*.ok.ru/video/*",
+            "*://*.ok.ru/*",
+            "*://*.dailymotion.com/video/*",
         ];
 
         const isMatching = patterns.some((pattern) => {
